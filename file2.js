@@ -1,2 +1,3 @@
 console.log("hello");
-console.log("my name is nisha");
+console.log("this is merge conflicts");
+console.log("byee");
